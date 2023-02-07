@@ -1,5 +1,5 @@
 {
-  "name": "cli_tool",
+  "name": "@itzrahulyadav/cli_tool",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
